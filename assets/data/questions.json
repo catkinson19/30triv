@@ -1,0 +1,102 @@
+{
+    "q1": {
+        "qText": "What does IBM stand for?",
+        "mOptions": [
+            "Industrial Business Machines",
+            "International Business Machines",
+            "Internationl Business Management",
+            "Industrial Business Management"
+        ],
+        "qAnswer": 1
+    },
+    "q2": {
+        "qText": "How much data does a 12 inch vinyl record theoretically hold?",
+        "mOptions": [
+            "100 kb",
+            "10 mb",
+            "250 mb",
+            "500 mb"
+        ],
+        "qAnswer": 3
+    },
+    "q3": {
+        "qText": "How many keys are on a standard windows keyboard (with numpad)?",
+        "mOptions": [
+            "100",
+            "96",
+            "104",
+            "112"
+        ],
+        "qAnswer": 3
+    },
+    "q4": {
+        "qText": "Which of the following is not a famous female computer scientist?",
+        "mOptions": [
+            "Anita Borg",
+            "Grace Hopper",
+            "Margaret Hamilton",
+            "Mae Carol Jemison"
+        ],
+        "qAnswer": 4
+    },
+    "q5": {
+        "qText": "What is decimal 65 in binary?",
+        "mOptions": [
+            "1000001",
+            "100001",
+            "10000001",
+            "10001"
+        ],
+        "qAnswer": 1
+    },
+    "q6": {
+        "qText": "What was the first Android 'desert' version?",
+        "mOptions": [
+            "Froyo",
+            "Donut",
+            "Cheese Cake",
+            "Bundt"
+        ],
+        "qAnswer": 2
+    },
+    "q7": {
+        "qText": "What year was the first Apple computer released?",
+        "mOptions": [
+            "1976",
+            "1972",
+            "1979",
+            "1969"
+        ],
+        "qAnswer": 1
+    },
+    "q8": {
+        "qText": "What year did CERN launch the first website?",
+        "mOptions": [
+            "1990",
+            "1985",
+            "1991",
+            "1989"
+        ],
+        "qAnswer": 3
+    },
+    "q10": {
+        "qText": "What is the average residential internet speed in Colorado?",
+        "mOptions": [
+            "4.12 Mbps",
+            "10.02 Mbps",
+            "5.75 Mbps",
+            "7.06 Mbps"
+        ],
+        "qAnswer": 4
+    },
+    "q11": {
+        "qText": "How many 1.44mb Floppy Disks would you need to hold a terrabyte of data?",
+        "mOptions": [
+            "728,177,000",
+            "279,324,000",
+            "56,088,000",
+            "928,732,000"
+        ],
+        "qAnswer": 1
+    }
+}

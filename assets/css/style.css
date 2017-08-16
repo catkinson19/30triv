@@ -1,0 +1,38 @@
+
+body {
+    cursor: default;
+    background: url(../images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.jumbotron{
+    margin-top: 20%;
+    background-color: #FCCA34;
+    -webkit-box-shadow: 1px 3px 5px 0px rgba(0,0,0,0.45);
+    -moz-box-shadow: 1px 3px 5px 0px rgba(0,0,0,0.45);
+    box-shadow: 1px 3px 5px 0px rgba(0,0,0,0.45);
+    text-align: center;
+}
+
+.progress {
+    background-color: #FCCA34;
+}
+
+.progress-bar-success {
+    background-color: #337ab7;
+}
+
+.ans:hover{
+    color: #337ab7;
+}
+
+#question-text{
+    margin-bottom: 5%;
+}
+
+#reset-game{
+    margin-top: 5%;
+}
