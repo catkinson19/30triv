@@ -117,7 +117,7 @@ function getData() {
     $.ajax({
         crossOrigin: false,
         dataType: 'json',
-        url: "../trivia-game/assets/data/questions.json",
+        url: "../30triv/assets/data/questions.json",
         type: "GET",
         success: function (data) {
             Object.keys(data).forEach(function (key) {
